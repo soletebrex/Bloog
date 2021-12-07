@@ -1,0 +1,2 @@
+# Bloog
+AJ ispocetka
